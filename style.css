@@ -1,0 +1,21 @@
+nav {
+    background: rgb(240, 182, 141);
+    position: fixed;
+    margin-top: 0px;
+}
+
+nav .logo a {
+    margin: 11px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin-left: 600px;
+    margin-right: 545px;
+    display: grid;
+    
+}
+
+img {
+    align-items: center;
+    image-resolution: 5000000px;
+    border: 3px solid brown;
+}
